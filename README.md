@@ -19,15 +19,14 @@ From SEO to social media campaigns, we craft effective digital marketing strateg
 ### DevOps Solutions ⚙️
 Implement efficient DevOps practices to automate processes, ensure scalability, and improve deployment reliability.
 
-## Repository Contents 📂
+### Technologies
 
-This repository contains examples, demos, and tools showcasing our expertise in:
-
-- **Laravel Projects** 🖥️: Sample projects demonstrating our Laravel development capabilities.
-- **Flutter Apps** 📱: Demo applications built with Flutter for various use cases.
-- **Shopify Customizations** 🛒: Code snippets and examples of customized Shopify solutions.
-- **Marketing Strategies** 📊: Resources and guides on effective digital marketing techniques.
-- **DevOps Practices** ⚙️: Scripts and configurations illustrating our approach to DevOps.
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## Getting Started 🚀
 
