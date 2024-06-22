@@ -39,6 +39,6 @@ Explore our repository to discover:
 
 ## Contact Us 📧
 
-For inquiries about our services or collaboration opportunities, please contact us at [contact@markazdigital.com](mailto:info@markazdigital.com).
+For inquiries about our services or collaboration opportunities, please contact us at [info@markazdigital.com](mailto:info@markazdigital.com).
 
 Follow us on [LinkedIn](https://www.linkedin.com/markazdigital) for updates and industry insights.
